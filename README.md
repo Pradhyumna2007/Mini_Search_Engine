@@ -104,7 +104,7 @@ Simple stemming rules are applied so similar words map to a single token.
 A global term-frequency dictionary is built:
 ---
 
-## How to Run
+## 5.How to Run
 
 1. Compile using g++:
 g++ main.cpp -o search
@@ -122,7 +122,7 @@ exit
 
 ---
 
-#  7. TF-IDF Formula Explanation
+#  6. TF-IDF Formula Explanation
 
 TF-IDF is used in real search engines (including Google-like systems) because it balances:
 
@@ -137,7 +137,7 @@ This gives better relevancy ranking.
 
 ---
 
-#  10. Future Improvements 
+#  7. Future Improvements 
 
 If you ever expand the project:
 - OR / NOT logic queries  
