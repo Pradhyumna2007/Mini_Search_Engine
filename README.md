@@ -21,7 +21,7 @@ It is designed to be simple but realistic, showing core search engine concepts.
 
 ---
 
-# 2. Features (Detailed)
+# 2. Features 
 
 ### **2.1 Multi-Document Parsing**
 - Supports any number of `.txt` files.
@@ -86,7 +86,7 @@ Mini_Search_Engine_Cpp/
 
 ---
 
-#  4. How It Works (Behind the Scenes)
+#  4. How It Works 
 
 ###  Step 1: Read all files  
 Each file is read line-by-line.
