@@ -104,7 +104,7 @@ Simple stemming rules are applied so similar words map to a single token.
 A global term-frequency dictionary is built:
 ---
 
-## 5.How to Run
+### 5. How to Run
 
 1. Compile using g++:
 g++ main.cpp -o search
